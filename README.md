@@ -41,8 +41,11 @@ The Car Sales Dashboard offers an interactive visualization of key performance i
 ## Screenshots
 
 <img width="637" alt="image" src="https://github.com/ganeshvadlamuri/Car-Sales-Dashboard-Power-BI/assets/85800035/e1a98869-92f3-4c18-ad31-6f6ce7981c2e">
+
 <img width="634" alt="image" src="https://github.com/ganeshvadlamuri/Car-Sales-Dashboard-Power-BI/assets/85800035/a85c0b51-0e17-484e-8959-b4b5b841012b">
+
 <img width="634" alt="image" src="https://github.com/ganeshvadlamuri/Car-Sales-Dashboard-Power-BI/assets/85800035/b1bf67da-aac6-41e6-b085-e3ecb5f2a454">
+
 <img width="636" alt="image" src="https://github.com/ganeshvadlamuri/Car-Sales-Dashboard-Power-BI/assets/85800035/4adfae49-fa2a-474f-80b6-2f0475a6fa47">
 
 
